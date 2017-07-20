@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HabitTrackerApp</string>
+    <string name="MONDAY">MONDAY</string>
+    <string name="TUESDAY">TUESDAY</string>
+    <string name="WEDNESDAY">WEDNESDAY</string>
+    <string name="THURSDAY">THURSDAY</string>
+    <string name="FRIDAY">FRIDAY</string>
+    <string name="SATURDAY">SATURDAY</string>
+    <string name="SUNDAY">SUNDAY</string>
+    <string name="delete_all">Delete All</string>
+    <string name="dummy_data">Dummy Data</string>
+    <string name="swimming_day">Swimming</string>
+    <string name="day">Day</string>
+    <string name="style">Style</string>
+    <string name="hint_style">hint_style</string>
+    <string name="time">Time</string>
+    <string name="hint_time">hint_time</string>
+    <string name="min">min</string>
+    <string name="note">Note</string>
+    <string name="hint_note">hint_note</string>
+</resources>
